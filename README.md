@@ -19,6 +19,6 @@ Model Accuracy with Testing Set:
 
 ![image](https://user-images.githubusercontent.com/80811266/163402014-4d2c7a73-b055-4484-9da8-b2cc9e6b5692.png)
 
-Model Comparison
+Model Comparison:
 
 ![image](https://user-images.githubusercontent.com/80811266/163406918-f23d57c2-6c1a-420a-8777-02bdc2e5417c.png)
